@@ -19,7 +19,7 @@ This project is a simple particle simulation implemented in Processing (Java). T
 ### Running the Simulation
 1. Download or clone this repository:
    ```sh
-   git clone https://github.com/your-username/particle-simulation.git
+   git clone https://github.com/prodev717/particle-simulation.git
    ```
 2. Open the `particle_life.pde` file in Processing.
 3. Click the **Run** button to start the simulation.
